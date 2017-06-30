@@ -1,0 +1,15 @@
+/*
+Theme Name: Betheme Child
+Theme URI: http://themes.muffingroup.com/betheme/
+Author: Muffin group
+Author URI: http://muffingroup.com/
+Description: Theme child - The biggest WordPress Theme ever
+License: Themeforest Split Licence
+License URI: -
+Version: 20.1
+Template: betheme
+
+All css files are placed in /css/ folder
+*/
+
+@import url("../betheme/style.css");
